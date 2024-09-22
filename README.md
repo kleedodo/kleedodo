@@ -4,3 +4,5 @@
 - 📫 Here is my blog https://blog.daryl.us.kg/
 
 ![kleedodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleedodo&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleedodo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
