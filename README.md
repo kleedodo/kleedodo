@@ -5,4 +5,4 @@
 
 ![kleedodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleedodo&show_icons=true&theme=radical&locale=cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleedodo&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleedodo&layout=compact)
