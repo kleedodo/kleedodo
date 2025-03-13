@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kleedodo
 - 👀 I’m interested in games, computer stuff...
 - 🌱 I’m currently learning rust
-- 📫 blog https://blog.daryl.us.kg/
+- 📫 [kleedodo blog](https://blog.hit.ip-ddns.com)
 
 ![kleedodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleedodo&show_icons=true&theme=radical&locale=cn)
 
